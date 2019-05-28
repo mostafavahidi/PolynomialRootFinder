@@ -1,0 +1,1 @@
+root: 1.3688082, num iterations: 22, convergence succeeded.
